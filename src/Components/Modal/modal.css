@@ -1,0 +1,8 @@
+.modal {
+  border: 1px solid #ccc;
+  box-shadow: -2rem 2rem 2rem rgba(black, 0.2);
+  opacity: 1;
+  visibility: visible;
+}
+
+

@@ -1,0 +1,36 @@
+.agent--list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    color: white;
+
+}
+
+.agent {
+    padding: 1em;
+}
+
+.agent--image {
+    max-width: 100px;
+    border-radius: 10px;
+}
+
+.agent--name {
+    padding: 0;
+    margin: 0;
+    color: white;
+    text-align: center;
+}
+
+.agent--btn {
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+    border: none;
+    padding: 0;
+    align-items: center;
+}
+
+.agent--btn:hover {
+    background: #FD4556!important;
+}
